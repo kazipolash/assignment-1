@@ -1,0 +1,97 @@
+body{font-family: 'Lobster', cursive;
+    margin: 0%;}
+.flexiable-container{ 
+    display:flex;
+}
+p
+{font-size: 16px;}
+.AMMU{
+
+color: red;}
+
+.ABBU{
+    color:yellowgreen;}
+
+.BBHIYA
+{color: springgreen;}
+
+.MBHIYA
+{color: gold;}
+
+h1{font-size: 50px;}
+.FINISH{
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;background-position: left;
+}
+
+.SEMI-width{
+    width: 50%;padding: 5px;
+
+}
+.SEMI-width img{
+    width: 100%;
+}
+
+.PERCEL{text-decoration: none; background-color: springgreen;padding: 10px 20px; border-radius: 25px;
+    background-image: linear-gradient(springgreen tomato);color: black;font-weight: 700;}
+.CORNER{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;background-position: left;
+}
+.CONTACT{
+    text-align: center;
+}
+.WRONG{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 40px;
+    border-radius: 10px;
+    
+}
+.PHOTO{border-radius: 25px;
+    border: 1px solid black;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    margin: auto;
+
+    }
+.SAFE{
+    
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 20px yellowgreen inset;
+
+}
+.NUMBER{
+    width: 33.33%;
+}
+.UPPER{
+    background-color: black;
+       text-align: center;
+       
+       padding: 10px;
+       
+
+   }
+   .UPPPER .ABBU{ 
+    background-color: black;
+       color: wheat;
+       text-decoration: none;
+       margin: 20px;
+       
+   }
+   .UPPER p{
+    color: white;
+    margin-top: 20px;
+   }
+   .UPPER .ABBU:hover{
+    text-decoration: underline;
+    color: tomato;
+   }
+   .FINGER{
+       color: wheat;
+   }
